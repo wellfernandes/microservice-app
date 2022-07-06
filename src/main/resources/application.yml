@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: app-service
+app-service:
+ app: "Hello"
+ default-value: "World"
